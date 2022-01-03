@@ -1,9 +1,9 @@
 // index.js
 const Index = () => {
     return (
-    <div>
-    <p>Hello world!</p>
-    </div>
+      <div>
+        <p>Hello world!</p>
+      </div>
     )
 }
 
